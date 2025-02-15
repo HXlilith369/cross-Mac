@@ -1,3 +1,4 @@
+In our actual usage, the amount of training data is smaller than the full training data provided by the MOSEI dataset. Specifically, while the MOSEI dataset offers 16,310 training samples, we are using a reduced subset of this data for our experiments. This allows for more focused experimentation, potentially improving computational efficiency while maintaining the relevance of the data.
 The code for testing is shared on Baidu Cloud. Link: https://pan.baidu.com/s/1-XspU7kMl0BQyAIK70xxaA
 Extraction code: dqy7
 -- Shared by Baidu Cloud Super Member V6.
