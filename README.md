@@ -2,9 +2,9 @@
 
 This repository contains the code and model for performing multimodal sentiment analysis (MSA) using a novel approach that combines cross-modal attention mechanisms and contrastive learning. The goal of this work is to improve performance across various modalities such as text, speech, and visual data.
 
-## Code for Testing
+## data for Testing
 
-The code for testing is shared on Baidu Cloud. Link: [https://pan.baidu.com/s/1-XspU7kMl0BQyAIK70xxaA](https://pan.baidu.com/s/1-XspU7kMl0BQyAIK70xxaA)  
+The data for testing is shared on Baidu Cloud. Link: [https://pan.baidu.com/s/1-XspU7kMl0BQyAIK70xxaA](https://pan.baidu.com/s/1-XspU7kMl0BQyAIK70xxaA)  
 Extraction code: dqy7  
 -- Shared by Baidu Cloud Super Member V6.
 
